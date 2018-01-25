@@ -6,7 +6,7 @@
 
 **Finding Lane Lines on the Road**
 
-The goal of this project is to design pipeline that finds lane lines on the road.
+The goal of this project is to design a pipeline that finds lane lines on the road..
 
 
 
