@@ -1,16 +1,13 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
 
-### You can use this file as a template for your writeup if you want to submit it as a markdown file. But feel free to use some other method and submit a pdf if you prefer.
 
 ---
 
 **Finding Lane Lines on the Road**
 
-The goals / steps of this project are the following:
-* Make a pipeline that finds lane lines on the road
-* Reflect on your work in a written report
+The goal of this project is to design pipeline that finds lane lines on the road.
+
 
 
 [//]: # (Image References)
@@ -27,8 +24,8 @@ The goals / steps of this project are the following:
 
 ### Reflection
 
-### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
-
+### 1. Describtion of the pipeline.
+ 
 My pipeline consisted of 11 steps. The steps are discussed below:
 
 ![alt text][image1]
@@ -84,4 +81,3 @@ Potential shortcomings would be
 -Should be more robust in terms changing colors of the image 
 
 -The algorithm should tackle the lane change of both of my car and the car in front 
-
