@@ -64,11 +64,11 @@ My pipeline consisted of 11 steps. The steps are discussed below:
 
 Potential shortcomings would be 
 
--If the roads are curved as I am using y = mx + c (straight line) to draw (big limitation)
+-If the roads are curved it wont work as expected as I am using y = mx + c (straight line) to draw (big limitation)
 
--It might now work accurately if there is less sunlight or to flashy.
+-It might now work accurately if there is less sunlight or too flashy.
 
--During lane change of my vehicle might cause unexpected behaviour while detecting the lanes
+-The lane change of my vehicle might cause unexpected behaviour while detecting the lanes
 
 
 
