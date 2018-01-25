@@ -13,7 +13,7 @@ The goal of this project is to design a pipeline that finds lane lines on the ro
 [//]: # (Image References)
 
 [image1]: ./Images_Writeup/Color.png "Color"
-[image2]: ./Images_Writeup/gray.png "Grayscale"
+[image2]: ./Images_Writeup/Gray.png "Grayscale"
 [image3]: ./Images_Writeup/Gaussian.png "Gaussian"
 [image4]: ./Images_Writeup/Canny.png "Canny"
 [image5]: ./Images_Writeup/ROI.png "ROI"
