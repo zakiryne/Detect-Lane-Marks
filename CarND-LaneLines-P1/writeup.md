@@ -24,7 +24,7 @@ The goal of this project is to design a pipeline that finds lane lines on the ro
 
 ### Reflection
 
-### 1. Describtion of the pipeline.
+### 1. Description of the pipeline.
  
 My pipeline consisted of 11 steps. The steps are discussed below:
 
